@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
+    "cheerio": "^1.0.0-rc.3",
     "hexo": "^4.2.1",
     "hexo-component-inferno": "^0.2.5",
     "hexo-deployer-git": "^2.1.0",
